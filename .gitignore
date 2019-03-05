@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+*.opensdf
+*.sdf
+*.tlog
+*.idb
+*.pdb
+*.ilk
+*.log
